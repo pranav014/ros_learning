@@ -1,2 +1,2 @@
 # ros_learning
-this is my about learning stage of ros 
+this is me on learning stage of ROS 
